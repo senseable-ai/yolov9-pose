@@ -1,6 +1,7 @@
 # YOLOv9-POSE
 
 This repository takes the Human Pose Estimation model from the YOLOv9 model as implemented in YOLOv9's official documentation.
+
 Implementation of paper - [YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information](https://arxiv.org/abs/2402.13616)
 
 
