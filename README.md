@@ -18,6 +18,7 @@ MS COCO
 | :-- | :-: | :-: | :-: | :-: | :-: | :-: |
 | [**YOLOv9n-POSE**](https://github.com/senseable-ai/yolov9-pose/blob/main/weights/YOLOv9-best.pt) | 640 | **60.2%** | **86.6%** | **5.1ms** | **32M** | **121.1G** |
 * mAP</sub><sup>pose</sup> values are for single-model single-scale on [COCO Keypoints val2017 dataset](https://cocodataset.org/#home)
+* Other YOLOv9* models will be uploaded over time.
 
 ## Prerequisites
 * Python >= 3.8
