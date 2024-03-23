@@ -9,13 +9,9 @@ Implementation of paper - [YOLOv9: Learning What You Want to Learn Using Program
 
 MS COCO
 
-| Model | Test Size | AP<sup>val</sup> | AP<sub>50</sub><sup>val</sup> | AP<sub>75</sub><sup>val</sup> | Param. | FLOPs |
+| Model | Test Size  | mAP<sub>50</sub><sup>pose</sup> | mAP<sub>75</sub><sup>pose</sup> | Speed(ms) | Param. | GFLOPs |
 | :-- | :-: | :-: | :-: | :-: | :-: | :-: |
-| [**YOLOv9-POSE-T**]() | 640 | **%** | **%** | **%** | **M** | **G** |
-| [**YOLOv9-POSE-S**]() | 640 | **%** | **%** | **%** | **M** | **G** |
-| [**YOLOv9-POSE-M**]() | 640 | **%** | **%** | **%** | **M** | **G** |
-| [**YOLOv9-POSE-C**]() | 640 | **%** | **%** | **%** | **M** | **G** |
-| [**YOLOv9-POSE-E**]() | 640 | **%** | **%** | **%** | **M** | **G** |
+| [**YOLOv9n-POSE**](https://github.com/senseable-ai/yolov9-pose/blob/main/weights/YOLOv9-best.pt) | 640 | **60.2%** | **86.6%** | **5.1ms** | **32M** | **121.1G** |
 
 ## Prerequisites
 * Python >= 3.8
